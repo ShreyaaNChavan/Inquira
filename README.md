@@ -5,10 +5,12 @@ Live Demo: https://inquira.freehosting.dev/
 GitHub Repository: https://github.com/ShreyaaNchavan/Inquira
 
  About Inquira
+---
 
 Inquira is a modern Question & Answer web application developed using PHP, MySQL, Bootstrap, HTML, CSS, JavaScript, and AJAX. It provides a platform where users can ask questions, answer others' queries, browse by categories, search discussions, and interact through likes.
 
 The name "Inquira" is inspired by the word "Inquire", which means to ask or seek information. It represents a community-driven platform where users learn by asking questions and sharing knowledge.
+
 ---
 
 ##  Features
